@@ -1,0 +1,30 @@
+{
+  "name": "coder-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node clase6/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mverblud/coder-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mverblud/coder-nodejs/issues"
+  },
+  "homepage": "https://github.com/mverblud/coder-nodejs#readme",
+  "dependencies": {
+<<<<<<< HEAD
+    "express": "^4.18.1"
+=======
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+>>>>>>> 654584e1fccee5ce4ed1120bc4c5d65643bc9977
+  }
+}
